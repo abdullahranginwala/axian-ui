@@ -5,8 +5,8 @@ import './globals.css';
 const inter = Inter({ subsets: ['latin'] });
 
 export const metadata: Metadata = {
-  title: 'Axian - MLOps Made Simple',
-  description: 'Deploy your ML models with ease. Transform your machine learning models into production-ready APIs instantly.',
+  title: 'Axian',
+  description: 'Axian Dashboard',
 };
 
 export default function RootLayout({
